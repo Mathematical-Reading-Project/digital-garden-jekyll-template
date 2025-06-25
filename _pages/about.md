@@ -6,4 +6,5 @@ permalink: /about
 
 *This is an about page.*
 
-Feel free to tell the world about what you love! 😍
+
+This webiste is based on a digital garden template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
