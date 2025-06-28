@@ -32,3 +32,7 @@ permalink: /
     max-width: 46em;
   }
 </style>
+
+<p>Here are all the reviews in this Repository, along with their links, visualized as a graph.</p>
+
+{% include notes_graph.html %}
