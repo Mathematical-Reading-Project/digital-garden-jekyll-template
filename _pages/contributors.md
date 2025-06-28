@@ -9,8 +9,8 @@ At the start of the Christmas break there will be a prize draw with the amazing 
 ## Leaderboard: 
 
 
+<div style="height: 20px;"></div>
 
 
 
-
-We'd also like to say a massive thank you to people who have helped take part this project! If you think this is a nice idea and would like to help behind the scenes or have some ideas for improvements please contact me! MathematicalReadingProject@gmail.com 
+We'd also like to say a massive thank you to people who have helped take part this project! This webiste is based on a digital garden template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). If you think this is a nice idea and would like to help behind the scenes or have some ideas for improvements please contact me! MathematicalReadingProject@gmail.com.
