@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
- <small> Welcome to our (slighlty empty) </small>  <h1> __Review Repository__ </h1>
+# <small> Welcome to our (slighlty empty) </small> __Review Repository__ 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Reading is fun! Reading maths can be very fun!
